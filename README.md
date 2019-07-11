@@ -1,3 +1,3 @@
 # lisniuse.github.io
 
- - [vuepress-theme-dark-demo/](http://lisniuse.github.io/vuepress-theme-dark-demo/)
+ - [vuepress-theme-thindark-demo](http://lisniuse.github.io/vuepress-theme-thindark-demo/)
